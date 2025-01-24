@@ -1,0 +1,76 @@
+body { 
+    background-color: black; 
+  } 
+   
+  .container { 
+    max-width: 1220px; 
+    margin: 0 auto; 
+    
+  } 
+   
+  .ota { 
+    display: flex; 
+    justify-content: start; 
+    border: 15px solid violet; 
+    padding: 20px; 
+    margin: 100px; 
+    border-radius: 15px; 
+  } 
+   
+  .bola { 
+    width: 100px; 
+    height: 200px; 
+    background-color: white; 
+    margin: 20px; 
+    border-radius: 20px;
+  } 
+   
+  .ota2 { 
+    display: flex; 
+    border: 15px solid violet; 
+    padding: 20px; 
+    justify-content: end; 
+    margin: 100px; 
+    border-radius: 15px; 
+   
+   
+  } 
+   
+   
+  .ota3 { 
+      display: flex; 
+      border: 15px solid violet; 
+      padding: 20px;
+      justify-content: center; 
+      margin: 100px; 
+      border-radius: 15px; 
+     
+    }
+    .box{
+      color: pink;
+      font-size: 96px;
+    }
+    .ota4{
+      display: flex; 
+      border: 15px solid violet; 
+      padding: 20px;
+      justify-content: space-between; 
+      margin: 100px; 
+      border-radius: 15px;
+    }
+    .ota5{
+      display: flex; 
+      border: 15px solid violet; 
+      padding: 20px;
+      justify-content: space-around; 
+      margin: 100px; 
+      border-radius: 15px;
+    }
+    .ota6{
+      display: flex; 
+      border: 15px solid violet; 
+      padding: 20px;
+      justify-content: space-evenly; 
+      margin: 100px; 
+      border-radius: 15px;
+    }
